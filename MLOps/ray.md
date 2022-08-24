@@ -16,3 +16,9 @@ or
 ```=python3
 ray.init()
 ```
+
+### Tutorial
+- `@ray.remote`, `ray.get`: https://docs.ray.io/en/releases-1.11.0/ray-core/examples/tips-for-first-time.html
+
+
+
