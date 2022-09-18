@@ -1,5 +1,11 @@
 # Linked List
 
+> Status : `Finished`
+
+![](https://i.imgur.com/J0VxWX7.png)
+
+---
+
 什麼是 Linked List
 
 - 是一種線性數據結構
@@ -571,7 +577,3 @@ class Solution:
 ![](https://i.imgur.com/Q8pc5DF.png)
 
 ---
-
-Finished!
-
-![](https://i.imgur.com/J0VxWX7.png)

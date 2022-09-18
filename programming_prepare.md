@@ -21,7 +21,7 @@
 
 - Linked List
     - [leetcode link](https://leetcode.cn/leetbook/detail/linked-list/)
-    - [note](leetcode/linked-list.md)
+    - [x][note](leetcode/linked-list.md)
 - Hash Table
     - [leetcode link](https://leetcode.cn/leetbook/detail/hash-table/)
 - Array & String
