@@ -20,12 +20,14 @@
 ## 資料結構
 
 - Linked List
-    - [leetcode link](https://leetcode.cn/leetbook/detail/linked-list/)
-    - [x][note](leetcode/linked-list.md)
+    - [x] [leetcode link](https://leetcode.cn/leetbook/detail/linked-list/)
+    - [x] [note](leetcode/linked-list/README.md)
 - Hash Table
-    - [leetcode link](https://leetcode.cn/leetbook/detail/hash-table/)
+    - [x] [leetcode link](https://leetcode.cn/leetbook/detail/hash-table/)
+    - [x] [note](leetcode/hash-table/README.md)
 - Array & String
-    - [leetcode link](https://leetcode.cn/leetbook/detail/array-and-string/)
+    - [x] [leetcode link](https://leetcode.cn/leetbook/detail/array-and-string/)
+    - [x] [note](leetcode/array-and-string/README.md)
 - Queue & Stack
     - [leetcode link](https://leetcode.cn/leetbook/detail/queue-stack/)
 - Binary Tree
@@ -44,18 +46,28 @@
 
 ## 算法設計
 
-- 图解算法数据结构 https://leetcode.cn/leetbook/detail/illustration-of-algorithm/
-- 基礎算法 https://leetcode.cn/leetbook/detail/top-interview-questions-easy/
-- 中級算法 https://leetcode.cn/leetbook/detail/top-interview-questions-medium/
-- 高級算法 https://leetcode.cn/leetbook/detail/top-interview-questions-hard/
-- Basic Array Algo. https://leetcode.cn/leetbook/detail/all-about-array/
-- Recursive / Divide & Conquer https://leetcode.cn/leetbook/detail/recursion-and-divide-and-conquer/
-- Binary Search https://leetcode.cn/leetbook/detail/binary-search/
-- Lookup Table https://leetcode.cn/leetbook/detail/all-about-lockup-table/
-- Sliding Window & Pointer https://leetcode.cn/leetbook/detail/sliding-window-and-two-pointers/
-- Graph https://leetcode.cn/leetbook/detail/graph/
-- 動態規劃 
-- 路徑問題 https://leetcode.cn/leetbook/detail/path-problems-in-dynamic-programming/
+- 图解算法数据结构 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/illustration-of-algorithm/)
+- 基礎算法 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/top-interview-questions-easy/)
+- 中級算法 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/top-interview-questions-medium/)
+- 高級算法 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/top-interview-questions-hard/)
+- Basic Array Algo. 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/all-about-array/)
+- Recursive / Divide & Conquer 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/recursion-and-divide-and-conquer/)
+- Binary Search 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/binary-search/)
+- Lookup Table 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/all-about-lockup-table/)
+- Sliding Window & Pointer 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/sliding-window-and-two-pointers/)
+- Graph 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/graph/)
+- 路徑問題 
+    - [leetcode link](https://leetcode.cn/leetbook/detail/path-problems-in-dynamic-programming/)
 
 > test: https://leetcode.cn/study-plan/algorithms/
 
