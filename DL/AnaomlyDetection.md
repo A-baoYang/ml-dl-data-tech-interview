@@ -23,6 +23,28 @@
   - One-Class SVM
   - One-Class SVM (SGD)
 
+## ML Model Hyperparameters Tuning
+
+- Isolation Forest
+  - `n_estimator`: The larger, the more complex the model is
+  - `contamination`: How much percentage/portion of the input data points are outliers in the input trainset
+- Local Outlier Factor
+  - `novelty` 
+    - `True`: Find outliers in new dataset(testset) (Novelty Detection) 
+      - `contamination`: Set a very small number for 
+    - `False`: Input trainset has outliers (Outlier Detection)
+  - `n_neighbors`: larger produces better results at the expense of increased fitting time, `n_neighbors=20` work well when outliers below 10%
+- One Class SVM : typically sensitive to outliers and hence not very good for outlier detection, but can be used for flagging outliers by fine-tuning the hyperparameter called “Nu” to handle outliers by preventing overfitting.
+  - `kernel`
+    - `rbf`: outliers not separable with a linear boundary
+    - `linear`: outliers are separable with a linear boundary
+
+> References:
+- https://support.altair.com/csm?id=community_blog&sys_id=b71da727dba60d90e8863978f49619ec
+- https://pub.towardsai.net/an-in-depth-guide-to-local-outlier-factor-lof-for-outlier-detection-in-python-5a6f128e5871
+- https://www.cnblogs.com/wj-1314/p/10461816.html
+
+
 ## AutoEncoder
 
 LSTM AutoEncoder Example 
